@@ -7,12 +7,6 @@
 		<key>NSAllowsArbitraryLoadsInWebContent</key>
 		<true/>
 	</dict>
-	<key>NSCameraUsageDescription</key>
-	<string>We use the camera to let you capture photos and videos inside web content.</string>
-	<key>NSMicrophoneUsageDescription</key>
-	<string>We use the microphone to record audio for camera and web content.</string>
-	<key>NSUserTrackingUsageDescription</key>
-	<string>We use this data to measure ad campaigns and improve your experience in the app.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
